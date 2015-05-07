@@ -1,11 +1,11 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_whileUntil" id="23" inline="false" x="99" y="62">
+  <block type="controls_whileUntil" id="1" inline="false" x="99" y="62">
     <field name="MODE">WHILE</field>
     <value name="NUMBER">
-      <block type="logic_compare" id="40" inline="true">
+      <block type="logic_compare" id="2" inline="true">
         <field name="OP">EQ</field>
         <value name="A">
-          <block type="sensor_spectrometer" id="62">
+          <block type="sensor_spectrometer" id="3">
             <field name="LIGHT">BLUE</field>
           </block>
         </value>
