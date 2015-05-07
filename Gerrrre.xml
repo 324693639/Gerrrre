@@ -6,7 +6,7 @@
         <field name="OP">EQ</field>
         <value name="A">
           <block type="sensor_spectrometer" id="62">
-            <field name="LIGHT">GREEN</field>
+            <field name="LIGHT">BLUE</field>
           </block>
         </value>
       </block>
